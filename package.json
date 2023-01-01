@@ -29,7 +29,7 @@
     "typeorm": "^0.2.22"
   },
   "devDependencies": {
-    "@nestjs/cli": "^6.12.1",
+    "@nestjs/cli": "^9.1.8",
     "@types/dotenv": "^6.1.1",
     "@types/node": "^11.15.2",
     "tslint": "^5.16.0",
